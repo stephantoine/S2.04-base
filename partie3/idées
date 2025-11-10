@@ -1,0 +1,18 @@
+- nombre de candidats général
+- taux accès 6ème - 3ème
+- nombre de mentions globales en général
+- ips
+- ecart type de l'ips
+
+- taux de réussite général 
+
+
+Est ce que le taux de réussite général d'un établissement est affecté par son taux d'accès de la 6ème à la 3ème ?
+Pour cela nous allons étuider son taux de réussite en fonction de son taux accès 6ème - 3ème, de son nombre de candidats général, de son nombre de mentions globales en général, de son ips et de l'écart-type de son ips.
+
+La population est l'ensemble des collèges
+
+
+- nombre élèves total
+- nombre élèves segpa / ulis 
+- nombre de filles et garçons 
